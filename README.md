@@ -10,7 +10,7 @@ RTL8111 GIGABIT ETHERNET
 BCM94352Z WIFI
 ALC 256 AUDIO
 
-## Mojave
+## Mojave, Catalina Beta 3
 
 ### Working
 
@@ -21,8 +21,8 @@ ALC 256 AUDIO
 - Trackpad Gestures
 - Screen
 - Power Management
+- Screen brightness (sometime at zero on login, 1 or 2 reboot will fix it)
 
 ### Not Working
 
 - Card reader
-
